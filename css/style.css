@@ -6,7 +6,7 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  background: rgb(196, 136, 87) center no-repeat;
   background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
@@ -56,7 +56,7 @@ p {
 }
 
 a {
-  color: black;
+  color: rgb(110, 141, 228);
   text-decoration: none;
 }
 
